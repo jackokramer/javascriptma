@@ -1,2 +1,2 @@
-# javascriptma
+# javascriptmass
 Javascriptmass calendar
